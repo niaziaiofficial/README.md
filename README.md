@@ -27,3 +27,9 @@
 - 🔭 I’m currently working on Blockchain projects.
 - 🌱 I’m currently learning advanced Smart Contracts.
 - 💬 Ask me about anything related to Crypto or Web3!
+## 📊 My GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=niaziaiofficial&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=niaziaiofficial&layout=compact&theme=radical" alt="Top Languages" />
+</p>
